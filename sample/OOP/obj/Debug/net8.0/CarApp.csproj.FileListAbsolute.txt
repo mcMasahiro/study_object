@@ -1,0 +1,14 @@
+D:\Dropbox\Repos\study_object\sample\CarApp\bin\Debug\net8.0\CarApp.exe
+D:\Dropbox\Repos\study_object\sample\CarApp\bin\Debug\net8.0\CarApp.deps.json
+D:\Dropbox\Repos\study_object\sample\CarApp\bin\Debug\net8.0\CarApp.runtimeconfig.json
+D:\Dropbox\Repos\study_object\sample\CarApp\bin\Debug\net8.0\CarApp.dll
+D:\Dropbox\Repos\study_object\sample\CarApp\bin\Debug\net8.0\CarApp.pdb
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.AssemblyInfoInputs.cache
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.AssemblyInfo.cs
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.csproj.CoreCompileInputs.cache
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.dll
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\refint\CarApp.dll
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.pdb
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\CarApp.genruntimeconfig.cache
+D:\Dropbox\Repos\study_object\sample\CarApp\obj\Debug\net8.0\ref\CarApp.dll

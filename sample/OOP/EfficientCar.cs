@@ -1,0 +1,19 @@
+
+// public class EfficientCar : Car
+// {
+//     public EfficientCar(string name, int initialFuel) : base(name, initialFuel) { }
+
+//     public override void Drive(int distance)
+//     {
+//         int effectiveDistance = distance / 2;
+//         if (Fuel >= effectiveDistance)
+//         {
+//             Fuel -= effectiveDistance;
+//             Console.WriteLine($"燃費の良い車が{distance} km走行しました。残り燃料: {Fuel} L");
+//         }
+//         else
+//         {
+//             Console.WriteLine("燃料が不足しています。補充が必要です。");
+//         }
+//     }
+// }

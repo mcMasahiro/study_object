@@ -1,0 +1,11 @@
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\bin\Debug\net8.0\Procedural.deps.json
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\bin\Debug\net8.0\Procedural.dll
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\bin\Debug\net8.0\Procedural.pdb
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\Procedural.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\Procedural.AssemblyInfoInputs.cache
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\Procedural.AssemblyInfo.cs
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\Procedural.csproj.CoreCompileInputs.cache
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\Procedural.dll
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\refint\Procedural.dll
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\Procedural.pdb
+D:\Dropbox\Repos\study_object\sample\Procedural\Procedural\obj\Debug\net8.0\ref\Procedural.dll
